@@ -135,3 +135,4 @@ Day 17: Variables and strict regime
 
 Day 18: Classification of data types on JS
 -
+
