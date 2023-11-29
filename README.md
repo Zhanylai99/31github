@@ -16,8 +16,7 @@
 
 
 
-
-                                                                                                     *Thorough Planning for Coding 31 days and 31github challenge:*                                                                                                                                Start Day: 24th of November - End day: 24th of December
+                                                *Thorough Planning for Coding 31 days and 31github challenge:*                                                                                                                                Start Day: 24th of November - End day: 24th of December
 
 
 
@@ -30,7 +29,7 @@ Day 1: What is GitHub?
 
 Day 2: Becoming familiar with sections of GitHub
 -
-- wrote my plans for the next 30-days to WIKI page
+- wrote my plans for the next 30-days on WIKI page
 
 Day 3: My first Commit on GitHub
 -
@@ -83,7 +82,7 @@ Day 10: Designing a website and create a structure.
 -
 - Basics styles
 - Getting started with LayOut
-- Syntacsis
+- Syntacsis of HTML
 
 Day 11: Application of Skills in real practice
 -
@@ -128,11 +127,76 @@ Day 16: - Setting up the system workspace. - What is JS and how to connect it to
 Day 17: Variables and strict regime
 -
 - to read about variables on JS
-- create variable 'age' and assign age
-- create variable 'name' and assign name
-- create variable 'year' and assign the year of birth
+- create a variable 'age' and assign it an age
+- create a variable 'name' and assign it a name
+- create a variable 'year' and assign the year of birth
 - withdrow all the variables to the console of browser
 
 Day 18: Classification of data types on JS
 -
+- read about arays and objects
+- create and obgect "person", and this object should contain the datas about a person, ex: name, surname, age, year of birth, place of birth etc.
+- create an array and inside of this array write several info
+- sort arrays and withdraw to the console
+- sort objects and withdraw it to the console
 
+Day 19: Basic functions of JS
+-
+- create a script that asks the user to write a NAME and a SURNAME, you should get these datas and print out to the console.
+- create a script that asks to enter 2 numbers and print out the sum of these numbers
+- make a script that asks to enter 2 numbers and print out the multiplication of these numbers
+
+Day 20: Operators in JS
+-
+- create a calculator with the help of basic functions of JS, and it should sum up, subtract, divide, multiply, get a reminder of division, raise numbers to powers
+- create a script which checks if the login and password. If login and password are correct, output will be "Welcome". If a user enters incorrect login, then it will output to the console "Login is 
+  incorrect", if password is entered incorrectly, then console shows "incorrect password".
+
+Day 21: Let's build and application
+-
+
+Day 22: Conditions and Loops in JS
+-
+- with the help of loops create a sort of goods
+- by click to get a name of good with the help of JS
+- by click to get a price of good
+- by click to get an address of picture
+- with the help of JS try to change the name and price of item
+
+Day 23: Callback - functions, Objects and destructure of objects (ES6)
+-
+- create a function which calculates the length of the circle, radius will be given by a user
+- to write a function min(a,b) which returns the smallest number of a and b
+
+Day 24: Arrow functions (ES6)
+-
+- create a function which raises numbers that user enters to powers
+- create a function which funds the area of a circle, radius will be entered by a user
+- create a function which funds the area of rectange, length and width will be entered by a user
+
+Day 25: Methods and properties of strings and numbers
+-
+- create a function which sums up 2 numbers with float
+  
+Day 26: Using Call-back functions
+- 
+- create a callback function which asks to enter login and password. Checks whether it is correct or not.
+- create a callback function which builds HTML element, in other words, asks what tag to create, asks what text to enter and what color of the text
+
+Day 27: Arrays and preudo-arrays
+- 
+
+Day 28: Passing by reference or by value ES6 - ES9 
+- 
+
+Day 29: Basics of OOP, Object- oriented programming - prototypal inheritance
+-
+
+Day 30: We will catch bags in our code with the help of developers console
+-
+- read about error handlingin JS, or about breakpoint
+- read about how to find errors in JS
+- write a brief summary of the article
+
+Day 31: Dynamic typing in JS
+-
