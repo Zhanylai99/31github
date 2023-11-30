@@ -51,27 +51,27 @@ Practice:
 Day 5: Practice work with lists and tables 
 - 
 - create a page index.html
-- create lists according to a picture that is given
-- create a table according to a picture
+- create lists according to the picture that is given
+- create a table according to the picture
 - upload completed assignment to GitHub
 
 Day 6: Pratice work with forms. Concept of Class and Id attributes
 -
-- create 3 links and give them classes, and with the help of attributes set a links to three different websites.
+- create 3 links and give them classes, and with the help of attributes set links to three different websites.
 - create 3 headlines, and set them different id, and with the help of attributes, make the 1st heading on the left, second in the middle, and third on the right
 
 Day 7: The concept of right approach
 -
-- Will determine with the project
+- Defining the project
 - Building the structure and selection of tags
-- We will learn how to choose the right tags
+- learning how to choose the right tags
 - upload the completed task to github
 
 Day 8: What is CSS and what is it for?
 -
-- How Css works and how does HTML and CSS interconnected with each other?
-- Create css file with the extention CSS and attach this file to html file.
-- In the previous HW already assigned classes to blocks. For these blocks set border, and give margins and paddings
+- How CSS works? How do HTML and CSS interconnected with each other?
+- Create CSS file with the extention CSS and attach this to the html file.
+- In the previous HW already assigned classes to blocks, for these blocks set border, and give margins and paddings
 
 Day 9: Selectors and their peculiarities
 -
@@ -82,12 +82,12 @@ Day 10: Designing a website and create a structure.
 -
 - Basics styles
 - Getting started with LayOut
-- Syntacsis of HTML
+- HTML syntax
 
 Day 11: Application of Skills in real practice
 -
-- create CSS file and link it to HTML
-- add font awesome to project
+- create a CSS file and link it to the HTML
+- add font awesome to the project
 - add icons to the top menu
 - add icons for the next blocks under the top block
 
@@ -96,83 +96,83 @@ Day 12: The correct designing and using HTML tags
 - lay out menu as shown in the picture
 - lay out drop down menu
 - lay out Search in the section menu
-- lay out a basket in the menu section
+- lay out basket in the menu section
 
 Day 13: Getting familiar with necessary set of CSS for website design
 -
 - lay out the block with items
-- when hovering to the block of items shold appear icons and description of items.
+- when hovering to the block of items should appear icons and descriptions of items.
 - lay out block with banners
 
  Day 14: Bibliotheques, Bootstrap
  -
- - to read the documentation Bootstrap
+ - read the documentation Bootstrap
  - lay out the block with banners through Bootstap
  - lay out footer of the site
 
 Day 15: Getting familiar with adaptation
 -
-- to read about adaptation of site
+- read about adaptation of site
 - make adaptation of site with desktop, tablet, mobile phone
-- To test adaptation of site on different devices
+- test adaptation of site on different devices
 
 Day 16: - Setting up the system workspace. - What is JS and how to connect it to the page?
 -  
 - install all the plagins shown in the lesson
 - install node.js
 - install jshint
-- to read about the settings jshint
-- to read how JS works
+- read about the settings jshint
+- read how JS works
 
 Day 17: Variables and strict regime
 -
-- to read about variables on JS
+- read about variables on JS
 - create a variable 'age' and assign it an age
 - create a variable 'name' and assign it a name
 - create a variable 'year' and assign the year of birth
-- withdrow all the variables to the console of browser
+- output all the variables to the console of browser
 
 Day 18: Classification of data types on JS
 -
-- read about arays and objects
+- read about arrays and objects
 - create and obgect "person", and this object should contain the datas about a person, ex: name, surname, age, year of birth, place of birth etc.
 - create an array and inside of this array write several info
-- sort arrays and withdraw to the console
-- sort objects and withdraw it to the console
+- sort arrays and output to the console
+- sort objects and output to the console
 
 Day 19: Basic functions of JS
 -
-- create a script that asks the user to write a NAME and a SURNAME, you should get these datas and print out to the console.
+- create a script that asks a user to write a NAME and a SURNAME, you should get these datas and print out to the console.
 - create a script that asks to enter 2 numbers and print out the sum of these numbers
 - make a script that asks to enter 2 numbers and print out the multiplication of these numbers
 
 Day 20: Operators in JS
 -
 - create a calculator with the help of basic functions of JS, and it should sum up, subtract, divide, multiply, get a reminder of division, raise numbers to powers
-- create a script which checks if the login and password. If login and password are correct, output will be "Welcome". If a user enters incorrect login, then it will output to the console "Login is 
+- create a script which checks if the login and password are correct. If they are correct, output will be "Welcome". If a user enters incorrect login, then it will output "Login is 
   incorrect", if password is entered incorrectly, then console shows "incorrect password".
 
-Day 21: Let's build and application
+Day 21: Let's build an application
 -
 
 Day 22: Conditions and Loops in JS
 -
 - with the help of loops create a sort of goods
-- by click to get a name of good with the help of JS
-- by click to get a price of good
-- by click to get an address of picture
-- with the help of JS try to change the name and price of item
+- by click get a name of good with the help of JS
+- by click get a price of good
+- by click get an address of picture
+- with the help of JS try to change the name and price of items
 
 Day 23: Callback - functions, Objects and destructure of objects (ES6)
 -
 - create a function which calculates the length of the circle, radius will be given by a user
-- to write a function min(a,b) which returns the smallest number of a and b
+- write a function min(a,b) which returns the smallest number of a and b
 
 Day 24: Arrow functions (ES6)
 -
 - create a function which raises numbers that user enters to powers
-- create a function which funds the area of a circle, radius will be entered by a user
-- create a function which funds the area of rectange, length and width will be entered by a user
+- create a function which finds the area of a circle, radius will be entered by a user
+- create a function which finds the area of a rectange, length and width will be entered by a user
 
 Day 25: Methods and properties of strings and numbers
 -
@@ -181,7 +181,7 @@ Day 25: Methods and properties of strings and numbers
 Day 26: Using Call-back functions
 - 
 - create a callback function which asks to enter login and password. Checks whether it is correct or not.
-- create a callback function which builds HTML element, in other words, asks what tag to create, asks what text to enter and what color of the text
+- create a callback function which builds HTML element, in other words, asks what tag to create, what text to enter and what color will be
 
 Day 27: Arrays and preudo-arrays
 - 
