@@ -200,3 +200,10 @@ Day 30: We will catch bags in our code with the help of developers console
 
 Day 31: Dynamic typing in JS
 -
+
+
+
+
+
+
+
