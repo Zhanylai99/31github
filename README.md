@@ -12,9 +12,11 @@
 * reading "Atomic Habits" (5am to 7am)
 * working from home (periodically monitoring tg channel and logbook)
 * deep cleaning at home(10am to 5pm)
-* cooking for the evening meal (6pm)
-
- *Thorough Planning for 31 Coding challenge:*                                                                                                      Start Day: 24th of November - End day: 24th of December
+* cooking for the evening meal (6pm
+*
+*
+  
+  Plan: for 31 Coding challenge                                                                                                      Start Day: 24th of November - End day: 24th of December
 
 
 
