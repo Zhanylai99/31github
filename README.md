@@ -16,9 +16,13 @@
 
 
 
+ ***Thorough Planning for 31 Coding challenge:***                                                                                           
+-
 
- **Thorough Planning for 31 Coding challenge:
-**
+Start Day: 24th of November - End day: 24th of December:
+
+
+
 Day 1: What is GitHub?
 -
 - Registered to GitHub and learned interface
