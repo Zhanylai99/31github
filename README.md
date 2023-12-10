@@ -1,4 +1,4 @@
-****Plan for the next 30-days****
+****Plan for the next 30-days📗****
 
            6 days a week:
 * 6 hrs sleep every day (12am to 6am )
@@ -23,7 +23,7 @@ Start Day: 24th of November - End day: 24th of December:
 
 
 
-Day 1: What is GitHub?
+Day 1: What is GitHub💻?
 -
 - Registered to GitHub and learned interface
 - Created my first repository
