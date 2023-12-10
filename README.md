@@ -14,10 +14,13 @@
 * deep cleaning at home(10am to 5pm)
 * cooking for the evening meal (6pm)
 
- ***Thorough Planning for 31 Coding challenge:*        **                                                                                           
+
+
+ ***Thorough Planning for 31 Coding challenge:***                                                                                           
 -
 
-   Start Day: 24th of November - End day: 24th of December:
+Start Day: 24th of November - End day: 24th of December:
+
 
 
 Day 1: What is GitHub?
