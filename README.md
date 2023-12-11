@@ -16,7 +16,7 @@
 
 
 
- ***Thorough Planning for 31 Coding challenge:***                                                                                           
+ ***🖊Thorough Planning for 31 Coding challenge:***                                                                                           
 -
 
 _Start Day: 24th of November - End day: 24th of December:
@@ -31,7 +31,7 @@ Day 2: Becoming familiar with sections of GitHub
 -
 - wrote my plans for the next 30-days on WIKI page
 
-Day 3: My first Commit on GitHub
+Day 3: My first Commit on GitHub💡
 -
 -Basics of Git
 -Writing "Hello World" in text file and commit it to my Git repository
@@ -48,7 +48,7 @@ Day 4: What is HTML?
 Practice:
 - try to use these tags and attributes by yourself
 
-Day 5: Practice work with lists and tables 
+Day 5: Practice work with lists and tables📚
 - 
 - create a page index.html
 - create lists according to the picture that is given
