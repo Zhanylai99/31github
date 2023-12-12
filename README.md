@@ -7,6 +7,8 @@
 * 2 hrs Coding (12pm to 2pm)
 * 8 hrs work (2 pm to 11 pm)
 
+
+
            Every Sunday:
 * 7 hrs sleep (10pm to 5am)
 * reading "Atomic Habits" (5am to 7am)
