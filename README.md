@@ -16,6 +16,8 @@
 * deep cleaning at home(10am to 5pm)
 * cooking for the evening meal (6pm)
 
+--------------------------------------------------------------------------------------------------------
+
 
 
  ***🖊Thorough Planning for 31 Coding challenge:***                                                                                           
