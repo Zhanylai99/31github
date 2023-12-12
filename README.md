@@ -26,22 +26,22 @@
 _Start Day: 24th of November - End day: 24th of December:
 
 
-Day 1: What is GitHub💻?
+Day 1: What is GitHub💻?✔️
 -
 - Registered to GitHub and learned interface
 - Created my first repository
 
-Day 2: Becoming familiar with sections of GitHub
+Day 2: Becoming familiar with sections of GitHub✔️
 -
 - wrote my plans for the next 30-days on WIKI page
 
-Day 3: My first Commit on GitHub💡
+Day 3: My first Commit on GitHub💡✔️
 -
 -Basics of Git
 -Writing "Hello World" in text file and commit it to my Git repository
 -To add HelloWorld.txt to repository
 
-Day 4: What is HTML?
+Day 4: What is HTML?✔️
 -
 - the most commonly used tags in HTML
 - How Web works?
@@ -52,57 +52,57 @@ Day 4: What is HTML?
 Practice:
 - try to use these tags and attributes by yourself
 
-Day 5: Practice work with lists and tables📚
+Day 5: Practice work with lists and tables📚✔️
 - 
 - create a page index.html
 - create lists according to the picture that is given
 - create a table according to the picture
 - upload completed assignment to GitHub
 
-Day 6: Pratice work with forms. Concept of Class and Id attributes
+Day 6: Pratice work with forms. Concept of Class and Id attributes✔️
 -
 - create 3 links and give them classes, and with the help of attributes set links to three different websites.
 - create 3 headlines, and set them different id, and with the help of attributes, make the 1st heading on the left, second in the middle, and third on the right
 
-Day 7: The concept of right approach
+Day 7: The concept of right approach✔️
 -
 - Defining the project
 - Building the structure and selection of tags
 - learning how to choose the right tags
 - upload the completed task to github
 
-Day 8: What is CSS and what is it for?
+Day 8: What is CSS and what is it for?✔️
 -
 - How CSS works? How do HTML and CSS interconnected with each other?
 - Create CSS file with the extention CSS and attach this to the html file.
 - In the previous HW already assigned classes to blocks, for these blocks set border, and give margins and paddings
 
-Day 9: Selectors and their peculiarities
+Day 9: Selectors and their peculiarities✔️
 -
 - Getting familiar with CSS styles
 - create a Landing Page according to the layout which is attached below in the link
 
-Day 10: Designing a website and create a structure.
+Day 10: Designing a website and create a structure.✔️
 -
 - Basics styles
 - Getting started with LayOut
 - HTML syntax
 
-Day 11: Application of Skills in real practice
+Day 11: Application of Skills in real practice✔️
 -
 - create a CSS file and link it to the HTML
 - add font awesome to the project
 - add icons to the top menu
 - add icons for the next blocks under the top block
 
-Day 12: The correct designing and using HTML tags
+Day 12: The correct designing and using HTML tags✔️
 -
 - lay out menu as shown in the picture
 - lay out drop down menu
 - lay out Search in the section menu
 - lay out basket in the menu section
 
-Day 13: Getting familiar with necessary set of CSS for website design
+Day 13: Getting familiar with necessary set of CSS for website design✔️
 -
 - lay out the block with items
 - when hovering to the block of items should appear icons and descriptions of items.
