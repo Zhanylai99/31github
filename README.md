@@ -17,7 +17,9 @@
 * cooking for the evening meal (6pm)
 
 --------------------------------------------------------------------------------------------------------
-
+![image](https://github.com/Zhanylai99/31github/assets/137826111/4a288d89-afd6-4636-8059-0fdbedaf8325)
+![image](https://github.com/Zhanylai99/31github/assets/137826111/80fb0d09-8646-4f88-9af3-203eb87d99b2)
+https://flyclipart.com/thumb2/github-png-icon-free-download-813498.png
 
 
  ***🖊Thorough Planning for 31 Coding challenge:***                                                                                           
