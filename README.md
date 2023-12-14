@@ -36,15 +36,18 @@ Day 1: What is GitHub💻?✔️
 - Registered to GitHub and learned interface
 - Created my first repository
 
+
 Day 2: Becoming familiar with sections of GitHub✔️
 -
 - wrote my plans for the next 30-days on WIKI page
+
 
 Day 3: My first Commit on GitHub💡✔️
 -
 -Basics of Git
 -Writing "Hello World" in text file and commit it to my Git repository
 -To add HelloWorld.txt to repository
+
 
 Day 4: What is HTML?✔️
 -
@@ -57,6 +60,7 @@ Day 4: What is HTML?✔️
 Practice:
 - try to use these tags and attributes by yourself
 
+
 Day 5: Practice work with lists and tables📚✔️
 - 
 - create a page index.html
@@ -64,10 +68,12 @@ Day 5: Practice work with lists and tables📚✔️
 - create a table according to the picture
 - upload completed assignment to GitHub
 
+
 Day 6: Pratice work with forms. Concept of Class and Id attributes✔️
 -
 - create 3 links and give them classes, and with the help of attributes set links to three different websites.
 - create 3 headlines, and set them different id, and with the help of attributes, make the 1st heading on the left, second in the middle, and third on the right
+
 
 Day 7: The concept of right approach✔️
 -
@@ -75,6 +81,7 @@ Day 7: The concept of right approach✔️
 - Building the structure and selection of tags
 - learning how to choose the right tags
 - upload the completed task to github
+
 
 Day 8: What is CSS and what is it for?✔️
 -
@@ -87,11 +94,13 @@ Day 9: Selectors and their peculiarities✔️
 - Getting familiar with CSS styles
 - create a Landing Page according to the layout which is attached below in the link
 
+
 Day 10: Designing a website and create a structure.✔️
 -
 - Basics styles
 - Getting started with LayOut
 - HTML syntax
+
 
 Day 11: Application of Skills in real practice✔️
 -
@@ -100,6 +109,7 @@ Day 11: Application of Skills in real practice✔️
 - add icons to the top menu
 - add icons for the next blocks under the top block
 
+
 Day 12: The correct designing and using HTML tags✔️
 -
 - lay out menu as shown in the picture
@@ -107,11 +117,13 @@ Day 12: The correct designing and using HTML tags✔️
 - lay out Search in the section menu
 - lay out basket in the menu section
 
+
 Day 13: Getting familiar with necessary set of CSS for website design✔️
 -
 - lay out the block with items
 - when hovering to the block of items should appear icons and descriptions of items.
 - lay out block with banners
+
 
  Day 14: Bibliotheques, Bootstrap
  -
@@ -119,11 +131,13 @@ Day 13: Getting familiar with necessary set of CSS for website design✔️
  - lay out the block with banners through Bootstap
  - lay out footer of the site
 
+
 Day 15: Getting familiar with adaptation
 -
 - read about adaptation of site
 - make adaptation of site with desktop, tablet, mobile phone
 - test adaptation of site on different devices
+
 
 Day 16: - Setting up the system workspace. - What is JS and how to connect it to the page?
 -  
@@ -133,6 +147,7 @@ Day 16: - Setting up the system workspace. - What is JS and how to connect it to
 - read about the settings jshint
 - read how JS works
 
+
 Day 17: Variables and strict regime
 -
 - read about variables on JS
@@ -140,6 +155,7 @@ Day 17: Variables and strict regime
 - create a variable 'name' and assign it a name
 - create a variable 'year' and assign the year of birth
 - output all the variables to the console of browser
+
 
 Day 18: Classification of data types on JS
 -
@@ -149,11 +165,13 @@ Day 18: Classification of data types on JS
 - sort arrays and output to the console
 - sort objects and output to the console
 
+
 Day 19: Basic functions of JS
 -
 - create a script that asks a user to write a NAME and a SURNAME, you should get these datas and print out to the console.
 - create a script that asks to enter 2 numbers and print out the sum of these numbers
 - make a script that asks to enter 2 numbers and print out the multiplication of these numbers
+
 
 Day 20: Operators in JS
 -
@@ -161,8 +179,10 @@ Day 20: Operators in JS
 - create a script which checks if the login and password are correct. If they are correct, output will be "Welcome". If a user enters incorrect login, then it will output "Login is 
   incorrect", if password is entered incorrectly, then console shows "incorrect password".
 
+
 Day 21: Let's build an application
 -
+
 
 Day 22: Conditions and Loops in JS
 -
@@ -172,10 +192,12 @@ Day 22: Conditions and Loops in JS
 - by click get an address of picture
 - with the help of JS try to change the name and price of items
 
+
 Day 23: Callback - functions, Objects and destructure of objects (ES6)
 -
 - create a function which calculates the length of the circle, radius will be given by a user
 - write a function min(a,b) which returns the smallest number of a and b
+
 
 Day 24: Arrow functions (ES6)
 -
@@ -183,14 +205,17 @@ Day 24: Arrow functions (ES6)
 - create a function which finds the area of a circle, radius will be entered by a user
 - create a function which finds the area of a rectange, length and width will be entered by a user
 
+
 Day 25: Methods and properties of strings and numbers
 -
 - create a function which sums up 2 numbers with float
+
   
 Day 26: Using Call-back functions
 - 
 - create a callback function which asks to enter login and password. Checks whether it is correct or not.
 - create a callback function which builds HTML element, in other words, asks what tag to create, what text to enter and what color will be
+
 
 Day 27: Arrays and preudo-arrays
 - 
