@@ -1,4 +1,3 @@
-![image](https://github.com/Zhanylai99/31github/assets/137826111/80fb0d09-8646-4f88-9af3-203eb87d99b2)
 
 https://assets-global.website-files.com/5fec9210c1841a6c20c6ce81/5fec9210c1841abd3ec6d286_githubLogo.png
 
