@@ -1,5 +1,5 @@
 
-https://assets-global.website-files.com/5fec9210c1841a6c20c6ce81/5fec9210c1841abd3ec6d286_githubLogo.png
+https://pngimg.com/uploads/github/github_PNG55.png
 
 ****Plan for the next 30-days📗****
 
