@@ -1,4 +1,7 @@
-****Plan for the next 30-days****
+
+https://pngimg.com/uploads/github/github_PNG55.png
+
+****Plan for the next 30-days📗****
 
            6 days a week:
 * 6 hrs sleep every day (12am to 6am )
@@ -7,6 +10,8 @@
 * 2 hrs Coding (12pm to 2pm)
 * 8 hrs work (2 pm to 11 pm)
 
+
+
            Every Sunday:
 * 7 hrs sleep (10pm to 5am)
 * reading "Atomic Habits" (5am to 7am)
@@ -14,28 +19,36 @@
 * deep cleaning at home(10am to 5pm)
 * cooking for the evening meal (6pm)
 
- *Thorough Planning for 31 Coding challenge:*                                                                                                      Start Day: 24th of November - End day: 24th of December
+--------------------------------------------------------------------------------------------------------
 
 
 
 
+ ***🖊Thorough Planning for 31 Coding challenge:***                                                                                           
+-
 
-Day 1: What is GitHub?
+_Start Day: 24th of November - End day: 24th of December:
+
+
+Day 1: What is GitHub💻?✔️
 -
 - Registered to GitHub and learned interface
 - Created my first repository
 
-Day 2: Becoming familiar with sections of GitHub
+
+Day 2: Becoming familiar with sections of GitHub✔️
 -
 - wrote my plans for the next 30-days on WIKI page
 
-Day 3: My first Commit on GitHub
+
+Day 3: My first Commit on GitHub💡✔️
 -
 -Basics of Git
 -Writing "Hello World" in text file and commit it to my Git repository
 -To add HelloWorld.txt to repository
 
-Day 4: What is HTML?
+
+Day 4: What is HTML?✔️
 -
 - the most commonly used tags in HTML
 - How Web works?
@@ -46,61 +59,70 @@ Day 4: What is HTML?
 Practice:
 - try to use these tags and attributes by yourself
 
-Day 5: Practice work with lists and tables 
+
+Day 5: Practice work with lists and tables📚✔️
 - 
 - create a page index.html
 - create lists according to the picture that is given
 - create a table according to the picture
 - upload completed assignment to GitHub
 
-Day 6: Pratice work with forms. Concept of Class and Id attributes
+
+Day 6: Pratice work with forms. Concept of Class and Id attributes✔️
 -
 - create 3 links and give them classes, and with the help of attributes set links to three different websites.
 - create 3 headlines, and set them different id, and with the help of attributes, make the 1st heading on the left, second in the middle, and third on the right
 
-Day 7: The concept of right approach
+
+Day 7: The concept of right approach✔️
 -
 - Defining the project
 - Building the structure and selection of tags
 - learning how to choose the right tags
 - upload the completed task to github
 
-Day 8: What is CSS and what is it for?
+
+Day 8: What is CSS and what is it for?✔️
 -
 - How CSS works? How do HTML and CSS interconnected with each other?
 - Create CSS file with the extention CSS and attach this to the html file.
 - In the previous HW already assigned classes to blocks, for these blocks set border, and give margins and paddings
 
-Day 9: Selectors and their peculiarities
+Day 9: Selectors and their peculiarities✔️
 -
 - Getting familiar with CSS styles
 - create a Landing Page according to the layout which is attached below in the link
 
-Day 10: Designing a website and create a structure.
+
+Day 10: Designing a website and create a structure.✔️
 -
 - Basics styles
 - Getting started with LayOut
 - HTML syntax
 
-Day 11: Application of Skills in real practice
+
+Day 11: Application of Skills in real practice✔️
 -
 - create a CSS file and link it to the HTML
 - add font awesome to the project
 - add icons to the top menu
 - add icons for the next blocks under the top block
 
-Day 12: The correct designing and using HTML tags
+
+Day 12: The correct designing and using HTML tags✔️
 -
 - lay out menu as shown in the picture
 - lay out drop down menu
 - lay out Search in the section menu
 - lay out basket in the menu section
 
-Day 13: Getting familiar with necessary set of CSS for website design
+
+Day 13: Getting familiar with necessary set of CSS for website design✔️
 -
 - lay out the block with items
 - when hovering to the block of items should appear icons and descriptions of items.
 - lay out block with banners
+
 
  Day 14: Bibliotheques, Bootstrap
  -
@@ -108,11 +130,13 @@ Day 13: Getting familiar with necessary set of CSS for website design
  - lay out the block with banners through Bootstap
  - lay out footer of the site
 
+
 Day 15: Getting familiar with adaptation
 -
 - read about adaptation of site
 - make adaptation of site with desktop, tablet, mobile phone
 - test adaptation of site on different devices
+
 
 Day 16: - Setting up the system workspace. - What is JS and how to connect it to the page?
 -  
@@ -122,6 +146,7 @@ Day 16: - Setting up the system workspace. - What is JS and how to connect it to
 - read about the settings jshint
 - read how JS works
 
+
 Day 17: Variables and strict regime
 -
 - read about variables on JS
@@ -129,6 +154,7 @@ Day 17: Variables and strict regime
 - create a variable 'name' and assign it a name
 - create a variable 'year' and assign the year of birth
 - output all the variables to the console of browser
+
 
 Day 18: Classification of data types on JS
 -
@@ -138,11 +164,13 @@ Day 18: Classification of data types on JS
 - sort arrays and output to the console
 - sort objects and output to the console
 
+
 Day 19: Basic functions of JS
 -
 - create a script that asks a user to write a NAME and a SURNAME, you should get these datas and print out to the console.
 - create a script that asks to enter 2 numbers and print out the sum of these numbers
 - make a script that asks to enter 2 numbers and print out the multiplication of these numbers
+
 
 Day 20: Operators in JS
 -
@@ -150,8 +178,10 @@ Day 20: Operators in JS
 - create a script which checks if the login and password are correct. If they are correct, output will be "Welcome". If a user enters incorrect login, then it will output "Login is 
   incorrect", if password is entered incorrectly, then console shows "incorrect password".
 
+
 Day 21: Let's build an application
 -
+
 
 Day 22: Conditions and Loops in JS
 -
@@ -161,10 +191,12 @@ Day 22: Conditions and Loops in JS
 - by click get an address of picture
 - with the help of JS try to change the name and price of items
 
+
 Day 23: Callback - functions, Objects and destructure of objects (ES6)
 -
 - create a function which calculates the length of the circle, radius will be given by a user
 - write a function min(a,b) which returns the smallest number of a and b
+
 
 Day 24: Arrow functions (ES6)
 -
@@ -172,14 +204,17 @@ Day 24: Arrow functions (ES6)
 - create a function which finds the area of a circle, radius will be entered by a user
 - create a function which finds the area of a rectange, length and width will be entered by a user
 
+
 Day 25: Methods and properties of strings and numbers
 -
 - create a function which sums up 2 numbers with float
+
   
 Day 26: Using Call-back functions
 - 
 - create a callback function which asks to enter login and password. Checks whether it is correct or not.
 - create a callback function which builds HTML element, in other words, asks what tag to create, what text to enter and what color will be
+
 
 Day 27: Arrays and preudo-arrays
 - 
@@ -192,6 +227,80 @@ Day 29: Basics of OOP, Object- oriented programming - prototypal inheritance
 
 Day 30: We will catch bags in our code with the help of developers console
 -
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles14.css">
+    <link href="font/fontawesome-free-6.5.1-web/css/all.css" rel="stylesheet">
+    <title>Lesson_14 - Syntax</title>
+</head>
+<body>
+    <header>
+        <div class="first-block">
+            <div class="container">
+                <ul class="menu">
+                    <li> <i class="fa-solid fa-bullhorn"></i>SMS Default Welcome!</li>
+                    <li class="gift"> 
+                        <i class="fa-solid fa-gift"></i>
+                        <span class="number">02</span>
+                        Gift Vouchers
+                    </li>
+                    </ul>
+
+                 <ul class="menu">
+                    <li> <i class="fa-solid fa-language"></i></i> Language:ENG</li>
+                    <li> <i class="fa-solid fa-money-bill"></i>Currency:USD</li>
+                    <li>Sign in/Register</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="second-block">
+            <div class="container">
+                <ul class>
+                    <li>Language:ENG</li>
+                    <li>Language:ENG</li>
+                    <li>Currency:USD</li>
+                    <li>Sign in/Register</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="third-block">
+            <div class="container">
+                <ul class>
+                    <li>Language:ENG</li>
+                    <li>Currency:USD</li>
+                    <li>Sign in/Register</li>
+                    <li>Sign in/Register</li>
+                    <li>Sign in/Register</li>
+                </ul>
+                <ul>
+                    <li>Language:ENG</li>
+                    <li>Currency:USD</li>
+                </ul>
+            </div>
+        </div>
+        
+
+    </header>
+
+    <main>
+        <ul>
+            <span> </span>                   
+            <li>Mon-Sat 8h00 - 18h00 <p><span>Sunday</span> <span>Close</span></p></li>
+            <li>Every Week Sales! <p><span>Discount</span> <span>Up To 50% Off</span></p></li>
+            <li>Have a Question <p><span>Call</span><span>+9778466619</span></p></li> 
+        </ul>
+    </main>
+    <footer>
+        <p>Бул жакта подвал</p>
+    </footer>
+</body>
+</html>
 - read about error handlingin JS, or about breakpoint
 - read about how to find errors in JS
 - write a brief summary of the article
