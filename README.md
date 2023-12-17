@@ -1,5 +1,6 @@
 
-https://i.ytimg.com/vi/ObWbcBsoCNU/maxresdefault.jpg
+![Uploading image.png…]()
+
 
 ****Plan for the next 30-days📗****
 
@@ -22,7 +23,6 @@ https://i.ytimg.com/vi/ObWbcBsoCNU/maxresdefault.jpg
 --------------------------------------------------------------------------------------------------------
 
 
-https://i.ytimg.com/vi/ObWbcBsoCNU/maxresdefault.jpg
 
  ***🖊Thorough Planning for 31 Coding challenge:***                                                                                           
 -
