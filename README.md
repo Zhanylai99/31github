@@ -1,5 +1,5 @@
 
-https://neoviso.com/wp-content/uploads/2018/06/github.png
+https://e7.pngegg.com/pngimages/187/843/png-clipart-web-development-github-version-control-commit-github-mammal-cat-like-mammal.png
 
 ****Plan for the next 30-days📗****
 
