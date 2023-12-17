@@ -1,5 +1,7 @@
 
 https://avatars.dzeninfra.ru/get-zen_doc/1900274/pub_619b78f3cafe195f46261f29_619b78f628e04b0402ac2bc6/scale_1200
+![Uploading image.png…]()
+
 
 
 ****Plan for the next 30-days📗****
