@@ -1,5 +1,5 @@
 
-https://www.technotification.com/wp-content/uploads/2019/03/open-source-projects-on-github.jpg
+https://i.ytimg.com/vi/ObWbcBsoCNU/maxresdefault.jpg
 
 ****Plan for the next 30-days📗****
 
@@ -22,7 +22,7 @@ https://www.technotification.com/wp-content/uploads/2019/03/open-source-projects
 --------------------------------------------------------------------------------------------------------
 
 
-
+https://i.ytimg.com/vi/ObWbcBsoCNU/maxresdefault.jpg
 
  ***🖊Thorough Planning for 31 Coding challenge:***                                                                                           
 -
