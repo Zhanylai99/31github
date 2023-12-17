@@ -1,5 +1,5 @@
 
-https://e7.pngegg.com/pngimages/187/843/png-clipart-web-development-github-version-control-commit-github-mammal-cat-like-mammal.png
+https://www.technotification.com/wp-content/uploads/2019/03/open-source-projects-on-github.jpg
 
 ****Plan for the next 30-days📗****
 
