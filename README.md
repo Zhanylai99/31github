@@ -1,4 +1,4 @@
-![JavaScript!(<javascript challenge.jpg>)
+![PICTURE!](javascript challenge.jpg)
 
 ****Plan for the next 30-days📗****
 
