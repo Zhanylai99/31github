@@ -20,7 +20,7 @@
 
 --------------------------------------------------------------------------------------------------------
 
-![GITHUB!](rubaitul-azad-HLQDfaJUTVI-unsplash.jpg)
+![GITHUB!](images/maxresdefault.jpg)
 
 
  ***🖊Thorough Planning for 31 Coding challenge:***                                                                                           
