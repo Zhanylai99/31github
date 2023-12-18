@@ -1,5 +1,4 @@
-
-![GITHUB!](rubaitul-azad-HLQDfaJUTVI-unsplash.jpg)
+![JavaScript!](javascript challenge.jpg)
 
 ****Plan for the next 30-days📗****
 
@@ -21,6 +20,7 @@
 
 --------------------------------------------------------------------------------------------------------
 
+![GITHUB!](rubaitul-azad-HLQDfaJUTVI-unsplash.jpg)
 
 
  ***🖊Thorough Planning for 31 Coding challenge:***                                                                                           
