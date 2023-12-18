@@ -1,5 +1,5 @@
 
-<img align="center" src="images/javascript challenge.jpg" width="200">
+<img  src="images/javascript challenge.jpg" width="400" align="center">
 
 ****Plan for the next 30-days📗****
 
