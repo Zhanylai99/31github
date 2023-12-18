@@ -1,4 +1,5 @@
 ![PICTURE!](images/javascript%20challenge.jpg)
+<img src="images/javascript challenge.jpg" width="100">
 
 ****Plan for the next 30-days📗****
 
