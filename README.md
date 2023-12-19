@@ -1,5 +1,6 @@
-<p align="center">
+<p align="center" width="350">
 <img  src="images/javascript challenge.jpg" width="350">
+![GITHUB!](images/maxresdefault.jpg)
 </p>
 
 
@@ -22,8 +23,6 @@
 * cooking for the evening meal (6pm)
 
 --------------------------------------------------------------------------------------------------------
-
-![GITHUB!](images/maxresdefault.jpg)
 
 
  ***🖊Thorough Planning for 31 Coding challenge:***                                                                                           
