@@ -1,6 +1,6 @@
 <p align="center" width="350">
 <img  src="images/javascript challenge.jpg" width="350">
-![GITHUB!](images/maxresdefault.jpg)
+<img src="images/maxresdefault.jpg"> 
 </p>
 
 
