@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+<img  src="images/javascript challenge.jpg" width="350">
 
-<img  src="images/javascript challenge.jpg" width="400" align="center">
+</p>
+
 
 ****Plan for the next 30-days📗****
 
