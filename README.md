@@ -1,6 +1,6 @@
-<p align="center" width="350">
+<p align="center">
 <img  src="images/javascript challenge.jpg" width="350">
-<img src="images/maxresdefault.jpg"> 
+<img src="images/maxresdefault.jpg"  width="350"> 
 </p>
 
 
