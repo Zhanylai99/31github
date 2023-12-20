@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=G3Cytlicv8Y
+
+- read about error handlingin JS, o
 <h1 align="center">Hi 👋, I'm Zhanylai</h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 <img align="right" alt="Coding" width="350" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
@@ -262,6 +265,7 @@ Day 29: Basics of OOP, Object- oriented programming - prototypal inheritance
 
 Day 30: We will catch bags in our code with the help of developers console
 -
+
 - read about error handlingin JS, or about breakpoint
 - read about how to find errors in JS
 - write a brief summary of the article
