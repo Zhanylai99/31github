@@ -1,6 +1,4 @@
-[![Watch the video](https://img.https://www.youtube.com/watch?v=G3Cytlicv8Y
-/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-
+[![asciicast](https://www.youtube.com/watch?v=G3Cytlicv8Y.png)](https://www.youtube.com/watch?v=G3Cytlicv8Y)
 
 <h1 align="center">Hi 👋, I'm Zhanylai</h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
