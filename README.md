@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=G3Cytlicv8Y
 
-- read about error handlingin JS, o
+
 <h1 align="center">Hi 👋, I'm Zhanylai</h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 <img align="right" alt="Coding" width="350" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
@@ -252,7 +252,7 @@ Day 26: Using Call-back functions
 - 
 - create a callback function which asks to enter login and password. Checks whether it is correct or not.
 - create a callback function which builds HTML element, in other words, asks what tag to create, what text to enter and what color will be
-
+- read about error handlingin JS
 
 Day 27: Arrays and preudo-arrays
 - 
