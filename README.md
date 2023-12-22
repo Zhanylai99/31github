@@ -98,6 +98,7 @@ Practice:
 - try to use these tags and attributes by yourself
 
 
+
 Day 5: Practice work with lists and tables📚✔️
 - 
 - create a page index.html
@@ -110,6 +111,7 @@ Day 6: Pratice work with forms. Concept of Class and Id attributes✔️
 -
 - create 3 links and give them classes, and with the help of attributes set links to three different websites.
 - create 3 headlines, and set them different id, and with the help of attributes, make the 1st heading on the left, second in the middle, and third on the right
+
 
 
 Day 7: The concept of right approach✔️
@@ -125,6 +127,7 @@ Day 8: What is CSS and what is it for?✔️
 - How CSS works? How do HTML and CSS interconnected with each other?
 - Create CSS file with the extention CSS and attach this to the html file.
 - In the previous HW already assigned classes to blocks, for these blocks set border, and give margins and paddings
+  
 
 Day 9: Selectors and their peculiarities✔️
 -
