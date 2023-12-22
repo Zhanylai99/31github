@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **50k frontend developers**
+- 🔭 I’m currently studying with **50k frontend developers**
 
-- 🌱 I’m currently learning **Nodejs, React**
+- 🌱 I’m currently learning **Nodejs, React, JavaScript, Java**
 
 - 🤝 I’m looking for help with **learning github profoundly**
 
 - 📫 How to reach me **zhanyoialmazbekkyzy@gmail.com**
 
-- ⚡ Fun fact **I think i am weirdly funny**
+- ⚡ Fun fact **I think i am rarely funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
