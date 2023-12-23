@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **learning github profoundly**
 
-- 📫 How to reach me **zhanyoialmazbekkyzy@gmail.com**
+- 📫 How to reach me - you can write to my email **zhanyoialmazbekkyzy@gmail.com**
 
-- ⚡ Fun fact **I think i am rarely funny**
+- ⚡ Fun fact **I am not funny at all😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
