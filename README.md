@@ -1,22 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Zhanylai</h1>
-<h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
-<img align="right" alt="Coding" width="350" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhanylai99&label=Profile%20views&color=0e75b6&style=flat" alt="zhanylai99" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently studying with **50k frontend developers**
-
-- 🌱 I’m currently learning **Nodejs, React, JavaScript, Java**
-
-- 🤝 I’m looking for help with **learning github profoundly**
-
-- 📫 How to reach me - you can write to my email **zhanyoialmazbekkyzy@gmail.com**
-
-- ⚡ Fun fact **I am not funny at all😉**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/zhanylaialmazbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zhanylaialmazbek" height="30" width="40" /></a>
